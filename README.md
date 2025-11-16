@@ -251,8 +251,8 @@ You can send requests directly to this endpoint.
   "neighbourhood_group": "manhattan",
   "room_type": "entire home/apt",
   "minimum_nights": 3,
-  "availability_365": 120,
-  "number_of_reviews": 45
+  "calculated_host_listings_count": 120,
+  "availability_365": 45
 }
 ```
 
